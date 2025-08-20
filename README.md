@@ -13,7 +13,7 @@
 - ⚡ Membuat tools portable, aplikasi automasi, & utilitas untuk produktivitas
 - 📦 Beberapa project saya:
   - [GameMenu 🎮](https://github.com/juliannizah26/GameMenu) – Launcher game modern
-  - [Steam Portable Launcher](https://github.com/juliannizah26/Steam-Portable-Launcher) – Steam portable
+  - [Steam Portable](https://github.com/juliannizah26/SteamPortable) – Steam portable
   - [Lossless Scaling Portable](https://github.com/juliannizah26/LosslessScaling-Portable) – Scaling tool portable  
 
 ---
